@@ -1,0 +1,33 @@
+{
+  "name": "pinia-plugin-undo-redo",
+  "version": "1.0.0",
+  "description": "Change pinia state history easily",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md",
+    "package.json"
+  ],
+  "keywords": [
+    "vue",
+    "pinia-plugin",
+    "plugin",
+    "history",
+    "timetravel",
+    "undo",
+    "redo",
+    "cancel",
+    "vuex"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XinChou16/pinia-plugin-undo-redo.git"
+  },
+  "author": "Xin Zhou",
+  "license": "MIT",
+  "homepage": "https://github.com/XinChou16/pinia-plugin-undo-redo"
+}
